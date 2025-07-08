@@ -65,7 +65,7 @@ To view or customize the report:
 
 1. Clone this repository.
 2. Open the **.pbix** file in Power BI Desktop.
-3. Refresh the queries if you’d like to re-scrape or update the data source.
+3. Refresh the queries if you’d like to re-scrape or update the data source. [Data Source](https://stats.espncricinfo.com/ci/engine/stats/index.html)
 4. Explore the pages and interact with the visuals!
 
 ---
@@ -74,8 +74,10 @@ To view or customize the report:
 
 | File                      | Description           |
 | ------------------------- | --------------------- |
-| `ODI_Cricket_Report.pbix` | Power BI report file  |
+| `Cricket_Report.pbix` | Power BI report file  |
 | `README.md`               | Project documentation |
+| `Column Definition`               |Data Dictionary |
+| `ODI Cricket Report`               | PDF |
 
 ---
 
@@ -89,7 +91,7 @@ Feel free to fork this project, suggest enhancements, or share your thoughts.
 ## 📢 **Connect**
 
 Let’s connect and talk **sports analytics**, **Power BI**, and **data storytelling**:
-\[Your LinkedIn Profile]
+[View My LinkedIn Profile](https://www.linkedin.com/in/emmanuel-idowu-analyst/)
 
 ---
 
