@@ -54,7 +54,9 @@ Highlights of fielding contributions:
 ## 🧩 **How It Works**
 
 1️⃣ **Data Collection**: Used web scraping techniques to gather match data.
+
 2️⃣ **Data Transformation**: Cleaned and shaped the data in Power Query.
+
 3️⃣ **Visualization**: Built an interactive Power BI report for exploration and storytelling.
 
 ---
@@ -98,5 +100,3 @@ Let’s connect and talk **sports analytics**, **Power BI**, and **data storytel
 **#PowerBI** | **#CricketAnalytics** | **#WebScraping** | **#PowerQuery** | **#SportsData**
 
 ---
-
-If you’d like, I can help you add sections for licensing, credits, or how to run the scraper if you want to include that too — just let me know!
