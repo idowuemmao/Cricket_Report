@@ -69,6 +69,7 @@ To view or customize the report:
 2. Open the **.pbix** file in Power BI Desktop.
 3. Refresh the queries if you’d like to re-scrape or update the data source. [Data Source](https://stats.espncricinfo.com/ci/engine/stats/index.html)
 4. Explore the pages and interact with the visuals!
+5. View on [LinkedIn](https://www.linkedin.com/in/emmanuel-idowu-analyst/)
 
 ---
 
